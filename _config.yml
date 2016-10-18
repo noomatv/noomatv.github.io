@@ -1,9 +1,9 @@
-title: Electron
-email: electron@github.com
-description: 'Build cross platform desktop apps with JavaScript, HTML, and CSS.'
-url: 'http://electron.atom.io'
-twitter_username: ElectronJS
-github_username: electron
+title: Nooma.io
+email: team@nooma.tv
+description: 'Everything you need to run an online school'
+url: 'http://nooma.io'
+twitter_username: noomatv
+github_username: noomatv
 future: true
 excerpt_separator: '---'
 gems:
@@ -95,7 +95,7 @@ exclude:
     - spec
 include:
     - _pages
-google_site_verification: eOAFtDphTbbm4OPKva2d3Z0Z_2bBxWMGdkD0IRQ6VeA
+# google_site_verification: eOAFtDphTbbm4OPKva2d3Z0Z_2bBxWMGdkD0IRQ6VeA
 twitter:
-    username: ElectronJS
+    username: noomatv
 logo: /images/opengraph.png
