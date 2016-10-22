@@ -2,7 +2,7 @@
 // Site Header
 
 .site-header {
-  color: $jumbo-color;
+  color: $green;
   background-color: lighten($jumbo-bg-color, 2%);
   border-bottom-color: darken($jumbo-bg-color, 8%);
   -webkit-font-smoothing: antialiased;
@@ -44,6 +44,10 @@
   }
 }
 
+.site-header-nav {
+  padding-top: 8px;
+}
+
 .site-header-nav .mega-octicon {
   min-width: 32px; // stops jumping of the nav when loading the page
 }
@@ -58,3 +62,7 @@
 }
 .site-header-logo { @include breakpoint(lg) { float: left; } }
 .site-header-nav  { @include breakpoint(lg) { float: right; } }
+
+.nooma-logo {
+  padding-bottom: 10px;
+}

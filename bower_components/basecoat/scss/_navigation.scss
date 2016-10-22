@@ -1,8 +1,8 @@
 .site-header {
   padding-top: 25px;
-  padding-bottom: 25px;
+  padding-bottom: 5px;
   text-align: center;
-  background-color: #fff;
+  background-color: $black;
   border-bottom: 1px solid $gray-1;
 
   @media (min-width: 700px) {
@@ -53,15 +53,15 @@
 
 .site-header-nav-item {
   display: inline-block;
-  color: #555;
+  color: $black;
 
   &:hover {
-    color: #333;
+    color: $green;
     text-decoration: none;
   }
 
   &.active {
-    color: #333;
+    color: $green;
   }
 
   + .site-header-nav-item {

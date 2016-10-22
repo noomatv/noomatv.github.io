@@ -6,9 +6,9 @@
 @mixin btn-outline-theme($color, $bg: $theme-color) {
   padding: .65em 1.25em;
   font-size: inherit;
-  color: $color;
+  color: $green;
   background: transparent;
-  border-color: $color;
+  border-color: $green;
   border-radius: .25em;
 
   &:hover,
@@ -18,8 +18,8 @@
     } @else {
       color: #fff;
     }
-    background-color: $color;
-    border-color: $color;
+    background-color: $green;
+    border-color: $green;
   }
 }
 
@@ -38,7 +38,7 @@
 
 // Override brand-blue on outline buttons with $theme-color
 .btn-themed {
-  color: $theme-color;
+  color: $black;
 
   &:hover {
     background-color: $theme-color;

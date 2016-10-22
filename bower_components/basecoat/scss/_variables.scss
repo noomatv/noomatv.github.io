@@ -109,7 +109,7 @@ $orange-1: lighten($orange, 30%);
 $orange-0: lighten($orange, 50%);
 
 // Blues
-$blue: #0079d1;
+$blue: #03082b;
 $blue-9: darken($blue, 18%);
 $blue-8: darken($blue, 14%);
 $blue-7: darken($blue, 10%);
@@ -135,7 +135,7 @@ $purple-1: lighten($purple, 30%);
 $purple-0: lighten($purple, 40%);
 
 // Greens
-$green: #29783E;
+$green: #41D07A;
 $green-9: darken($green, 18%);
 $green-8: darken($green, 15%);
 $green-7: darken($green, 10%);
@@ -161,7 +161,7 @@ $yellow-1: lighten($yellow, 30%);
 $yellow-0: lighten($yellow, 40%);
 
 // 11 Shades of Gray
-$black: #1c1c1c;
+$black: #020621;
 $gray-9: lighten($black, 5%);
 $gray-8: lighten($black, 10%);
 $gray-7: lighten($black, 20%);
@@ -175,11 +175,11 @@ $gray-0: lighten($black, 85%);
 $white: #fff;
 
 // Color used to generate color scheme
-$theme-color: $blue-9 !default;
+$theme-color: $black !default;
 
 // Type colors
-$body-color: #767676 !default;
-$heading-color: #3c4146 !default;
+$body-color: $black !default;
+$heading-color: $black !default;
 
 
 // Main navigation

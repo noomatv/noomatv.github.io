@@ -2,7 +2,7 @@
 .footer {
   margin-top: auto; // makes footer sticky (with flexbox)
   border-color: darken($main-bg-color-shade, 8%);
-  background: $main-bg-color-shade;
+  background: $black;
 }
 
 .footer a {
@@ -19,6 +19,9 @@
 }
 
 .footer-love {
+
+  text-align: center;
+  
   @include breakpoint(md) {
     float: right;
   }
