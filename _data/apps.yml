@@ -1,7 +1,7 @@
 -
   name: "Nick Walter"
   description: "A hackable text editor for the 21 st Century"
-  website: "noomanick.gitlab.io"
+  website: "https://noomanick.gitlab.io"
   repository: "https://github.com/atom/atom"
   keywords:
     - "web development"
