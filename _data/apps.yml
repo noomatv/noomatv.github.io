@@ -11,7 +11,7 @@
 -
   name: "Jared Davidson"
   description: "A messaging app for teams"
-  website: "https://nooma-archetapp.gitlab.io/"
+  website: "http://archetapp.com"
   repository: ""
   keywords: []
   license: ""
@@ -20,7 +20,7 @@
 -
   name: "Brian Advent"
   description: "Open source code editor developed by Microsoft"
-  website: "https://nooma-brian.gitlab.io/"
+  website: "https://nooma-brian.gitlab.io"
   repository: ""
   keywords: []
   license: "MIT"
