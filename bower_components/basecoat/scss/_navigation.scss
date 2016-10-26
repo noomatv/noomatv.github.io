@@ -44,6 +44,7 @@
 
 .site-header-nav {
   margin-top: 20px;
+  color: $white;
 
   @media (min-width: 700px) {
     float: right;
@@ -53,15 +54,15 @@
 
 .site-header-nav-item {
   display: inline-block;
-  color: $black;
+  color: $white;
 
   &:hover {
-    color: $green;
+    color: $white;
     text-decoration: none;
   }
 
   &.active {
-    color: $green;
+    color: $white;
   }
 
   + .site-header-nav-item {
