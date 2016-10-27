@@ -1,7 +1,7 @@
 -
   name: "Nick Walter"
   description: "A hackable text editor for the 21 st Century"
-  website: "https://noomanick.gitlab.io"
+  website: "https://www.nooma.tv/n/NickWalter"
   repository: "https://github.com/atom/atom"
   keywords:
     - "web development"
@@ -20,7 +20,7 @@
 -
   name: "Brian Advent"
   description: "Open source code editor developed by Microsoft"
-  website: "https://nooma-brian.gitlab.io"
+  website: "https://www.nooma.tv/n/BrianAdvent"
   repository: ""
   keywords: []
   license: "MIT"
